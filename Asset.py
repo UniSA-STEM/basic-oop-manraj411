@@ -1,8 +1,8 @@
 """
 File: Asset.py
 Description: <A brief description of this Python module.>
-Author: <full name>
-ID: <student_id>
-Username: <username>
+Author: Manraj Singh Randhawa
+ID: 110480393
+Username: manraj411
 This is my own work as defined by the University's Academic Misconduct Policy.
 """
