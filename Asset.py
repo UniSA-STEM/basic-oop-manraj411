@@ -10,6 +10,7 @@ Username: manraj411
 This is my own work as defined by the University's Academic Misconduct Policy.
 """
 
+
 class Asset:
 
     def __init__(self, name, description):
