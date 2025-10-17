@@ -1,8 +1,9 @@
 """
 File: Asset.py
-Description: This module defines the Asset class used to represent digital assets in the cyberpunk
-             simulation. Assets can be encrypted or decrypted and are used by hackers and rigs
-             for trading, upgrading, and security operations.
+
+Description: This module defines the Asset class used to represent digital assets in the cyberpunk simulation.
+Assets can be encrypted or decrypted and are used by hackers and rigs for trading, upgrading and security operations.
+
 Author: Manraj Singh Randhawa
 ID: 110480393
 Username: manraj411
